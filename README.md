@@ -1,0 +1,11 @@
+# 8-Bit-Computer-System
+- Von Neumann architecture computer system 
+- 256x8 Memory System
+    - read-only Program Memory to avoid overwriting instructions
+    - R/W memory implementation for Data Memory
+- 16 Input and 16 Output Ports
+- CPU with necessary registers for Fetch,Decode,Execute process
+    - Instruction Register
+    - Memory Address Register
+    - Program Counter
+    - Condition Code Register (flags specific conditions in ALU)
